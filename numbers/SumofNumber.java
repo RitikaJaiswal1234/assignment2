@@ -17,6 +17,12 @@ public int sumofdigit(int number) {
      sum = sum + i; 
       return sum;
 }
+    /**
+    * Method Name : main Method
+    * Objective : driver method
+    * input : String Array
+    * @param : one parameter
+    */
 public static void main(String[] args) {
   Scanner scanner = new Scanner(System.in);
   System.out.print(" Please Enter any Number : "); 
