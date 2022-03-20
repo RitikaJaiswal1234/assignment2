@@ -24,7 +24,7 @@ public class PrimeNumber { //class PrimeNumber
   * input : String Array
   * @param : one parameter
   */
-public static void main(String[] args) {
+ public static void main(String[] args) {
     boolean answer;
     Scanner sc = new Scanner(System.in);
     System.out.println("Enter a number :");
